@@ -1,66 +1,78 @@
 <div align="center">
-  <!-- 100% Static, 3D Neon-Stroke Header -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Gowreesh%20M%20G&fontSize=85&fontColor=FFFFFF&stroke=8B5CF6&strokeWidth=3" alt="Gowreesh M G" />
+  <!-- 100% Static 3D-styled Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=GOWREESH%20M%20G&fontSize=80&fontColor=ffffff&stroke=38BDF8&strokeWidth=3" style="filter: drop-shadow(0px 4px 8px rgba(56, 189, 248, 0.4));" alt="Gowreesh M G" />
+  <br/>
   
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Animated Typing Subtitle -->
   <a href="https://github.com/gowreeshmg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=AI+%26+ML+Engineering+Student;Full-Stack+Web+Developer;Building+Next.js+%2B+Python+Architectures;Crafting+Glassmorphism+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=40&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Architect;Building+Next.js+%2B+Python+Systems;Designing+Glassmorphism+UIs" alt="Typing Subtitle" />
   </a>
   <br/>
-  <a href="https://linkedin.com/in/gowreeshmg"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/gowreeshmg"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/gowreeshmg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gowreeshgowri50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="Views"/>
 </div>
 
 <br/>
+<br/>
 
-## 🧠 About Me
+<!-- Dashboard Layout: About Me & Top Languages side-by-side -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🧠 Executive Summary</h2>
+      <p>I am an AI & ML engineering student at <b>Vidya Academy of Science and Technology</b>. I specialize in bridging the gap between heavy-duty deep learning frameworks and modern web architectures.</p>
+      <p>My work focuses on integrating robust computer vision pipelines into highly responsive, Apple-inspired glassmorphism interfaces. I actively leverage AI tools such as <b>Google Antigravity</b> and <b>Claude</b> to accelerate complex workflows and maintain agile development cycles.</p>
+      <p>📍 <b>Base of Operations:</b> Thrissur, Kerala, India</p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <h2>🔥 Language Distribution</h2>
+      <!-- Transparent background to blend into the dashboard -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-> 👋 **Hi, I'm Gowreesh.** I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at **Vidya Academy of Science and Technology**. 
->
-> I build at the intersection of heavy-duty deep learning and modern web architecture. My work focuses on integrating robust computer vision pipelines into highly responsive, Apple-inspired glassmorphism interfaces. I actively leverage AI-driven developer tools like **Google Antigravity** and **Claude** to accelerate complex workflows and maintain agile development cycles.
+<br/>
 
-* 📍 Based in **Thrissur, Kerala, India** 🇮🇳
-* ⚡ Primary Stack: **Next.js · React · Python · PyTorch · YOLOv8**
-* 📫 Reach me at: **gowreeshgowri50@gmail.com**
+<!-- Premium 3D-Style Skill Icons Grid -->
+<div align="center">
+  <h2>🛠️ Technology Arsenal</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js,ts&theme=dark" alt="Frontend Frameworks" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,flask,redis,vercel,github&theme=dark" alt="Backend & AI" />
+  </a>
+</div>
 
 <br/>
 
 ## 🚀 Featured Engineering
 
-| Project | Description | Tech Stack |
+| Architecture | System Description | Core Stack |
 | :--- | :--- | :--- |
-| 🚆 **IRDOS** | Decision-support web platform for Kochi Metro trainset scheduling and optimization. | Flask, Next.js, AI Logic |
-| 👁️ **RetinaScan** | Medical AI diagnostic application for classifying diabetic retinopathy severity. | PyTorch, Computer Vision |
-| 💥 **CrashVision AI** | Automated traffic accident detection and risk analytics platform. | YOLOv8, Python, OpenCV |
-| 📊 **OnDotNext** | Interactive student attendance tracking web application for VAST. | Next.js, Upstash Redis |
+| 🚆 **IRDOS** | Decision-support web platform for Kochi Metro trainset scheduling. | `Flask` `Next.js` `AI Logic` |
+| 👁️ **RetinaScan** | Medical diagnostic application classifying diabetic retinopathy severity. | `PyTorch` `Flask` `CV` |
+| 💥 **CrashVision AI** | Automated traffic accident detection and risk analytics platform. | `YOLOv8` `OpenCV` `Python` |
+| 📊 **OnDotNext** | Interactive student attendance tracking web application for VAST. | `Next.js` `Upstash Redis` |
 
 <br/>
 
-## 🛠️ Tech Stack & Arsenal
-
+<!-- Analytics Row with hardcoded heights to guarantee perfect alignment -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <h2>📈 Engineering Analytics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&theme=tokyonight&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
-
+<!-- Dynamic Activity Graph Area -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gowreesh's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <h2>🌌 Contribution Activity</h2>
+  <picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowreeshmg&bg_color=0D1117&color=A855F7&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </picture>
 </div>
