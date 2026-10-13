@@ -20,11 +20,15 @@
 
 ## 🚀 About Me
 
-> ### 👋 Welcome! I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya Academy of Science and Technology.
+> **👋 Welcome! I am Gowreesh M G, an undergraduate student pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya Academy of Science and Technology in Thrissur, Kerala.**
 > 
-> ### 💡 I specialize in bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. My development philosophy focuses on integrating robust computer vision pipelines into highly responsive, Apple-inspired glassmorphism interfaces.
+> **I am deeply passionate about bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. I thrive at the intersection of deep learning and modern web architecture, focusing on deploying robust computer vision pipelines into scalable web applications.**
 > 
-> ### ⚡ To accelerate complex workflows and maintain agile development cycles, I highlight my experience with AI tools such as Google Antigravity and Claude.
+> **My design philosophy heavily revolves around modern aesthetics. I am obsessed with crafting highly responsive, Apple-inspired glassmorphism interfaces, fluid UI transitions, and seamless dark and light themes that elevate the user experience without sacrificing performance.**
+> 
+> **To architect efficient codebases, accelerate complex workflows, and maintain agile development cycles, I actively leverage advanced AI developer tools such as Google Antigravity and Claude.** 
+>
+> **Currently, I am exploring new frontiers in neural networks and am actively seeking internship opportunities where I can contribute to impactful AI or full-stack web development projects. I'm always open to collaborations, open-source contributions, and conversations about tech.**
 
 * 💻 **Web Architecture:** Building full-stack platforms primarily using **Next.js, React, Tailwind CSS**, and **Python Flask**, with infrastructure powered by **Vercel** and **Upstash Redis**.
 * 🧠 **AI Integration:** Experienced in deploying deep learning frameworks and computer vision models, including **PyTorch, TensorFlow, YOLOv8**, and **OpenCV**.
