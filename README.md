@@ -9,9 +9,12 @@
   </a>
   <br/>
 
-  <!-- Badges grouped tightly together -->
+  <!-- Social Badges Row 1 -->
   <a href="https://linkedin.com/in/gowreeshmg"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gowreeshgowri50@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br/><br/>
+  
+  <!-- Profile Views Row 2 (Pushed Below) -->
   <a href="https://github.com/gowreeshmg"><img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Views"/></a>
 </div>
 
@@ -19,15 +22,19 @@
 
 ## 🚀 About Me
 
-> **Welcome! I am an Artificial Intelligence & Machine Learning Engineering undergraduate at Vidya Academy of Science and Technology.**
+> **Welcome! I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya Academy of Science and Technology.**
 > <br/>
-> **I specialize in bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. I don't just train models; I deploy them into highly responsive, full-stack environments.**
+> **I specialize in bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. My development philosophy focuses on integrating robust computer vision pipelines into highly responsive, Apple-inspired glassmorphism interfaces.**
+> <br/>
+> **To accelerate complex workflows and maintain agile development cycles, I highlight my experience with AI tools such as Google Antigravity and Claude.**
 
-* 🎓 **Academic Base:** B.Tech in AI & ML, continuously pushing the boundaries of what student projects can achieve.
-* 💻 **Web Architecture:** I build primarily with **Next.js, React, Tailwind CSS**, and **Python Flask**.
-* 🧠 **AI Integration:** Experienced in deploying computer vision pipelines and deep learning frameworks (PyTorch, TensorFlow, YOLOv8, OpenCV).
-* 🎨 **Design Philosophy:** Obsessed with modern aesthetics—specifically Apple-inspired glassmorphism, fluid UI transitions, and seamless dark/light theme toggles.
-* ⚡ **Workflow:** Supercharged by modern developer tools including Vercel, Upstash Redis, Google Antigravity, and Claude.
+* 💻 **Web Architecture:** Building full-stack platforms primarily using **Next.js, React, Tailwind CSS**, and **Python Flask**, with infrastructure powered by **Vercel** and **Upstash Redis**.
+* 🧠 **AI Integration:** Experienced in deploying deep learning frameworks and computer vision models, including **PyTorch, TensorFlow, YOLOv8**, and **OpenCV**.
+* 🛠️ **Notable Engineering:**
+  * **IRDOS:** A decision-support web platform for Kochi Metro trainset scheduling and maintenance optimization.
+  * **RetinaScan:** A medical AI diagnostic application classifying diabetic retinopathy severity.
+  * **CrashVision AI:** An automated traffic accident detection and risk analytics platform.
+  * **OnDotNext:** An interactive student attendance tracking web application leveraging Redis and Next.js.
 
 <br/>
 
@@ -45,26 +52,15 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Custom colored analytics cards to seamlessly match the banner gradient -->
+<!-- Transparent backgrounds with text/icons hex-matched perfectly to the banner -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&title_color=8B5CF6&text_color=ffffff&icon_color=3B82F6&bg_color=0f172a&hide_border=true" alt="Gowreesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&title_color=8B5CF6&text_color=3B82F6&icon_color=8B5CF6&bg_color=00000000&hide_border=true" alt="Gowreesh's GitHub Stats" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&title_color=8B5CF6&text_color=ffffff&icon_color=3B82F6&bg_color=0f172a&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&title_color=8B5CF6&text_color=3B82F6&bg_color=00000000&hide_border=true" alt="Top Languages" />
   
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&theme=tokyonight&hide_border=true&background=0f172a&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 🌌 Contribution Activity
-
-<!-- A highly reliable classic GitHub chart mapped to the exact purple of your theme -->
-<div align="center">
-  <a href="https://github.com/gowreeshmg">
-    <img src="https://ghchart.rshah.org/8B5CF6/gowreeshmg" alt="Gowreesh's Contribution Graph" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&currStreakNum=3B82F6&sideNums=3B82F6&sideLabels=8B5CF6&dates=3B82F6" alt="GitHub Streak" />
 </div>
