@@ -1,18 +1,35 @@
 <div align="center">
-  <!-- Dynamic Animated Header -->
+  <!-- 3D Effect Name Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=55&pause=1000&color=F8FAFC&center=true&vCenter=true&width=800&height=100&lines=Gowreesh+M+G" style="filter: drop-shadow(4px 4px 0px #38BDF8) drop-shadow(8px 8px 0px #1E3A8A);" alt="Gowreesh M G" />
+  
+  <br/>
+
+  <!-- Distinct Color Typing Animation -->
   <a href="https://github.com/gowreeshmg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Gowreesh+M+G;AI+%26+Machine+Learning+Engineer;Full-Stack+Web+Developer;Building+Sleek+Glassmorphism+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=AI+%26+ML+Engineering+Student;Full-Stack+Web+Developer;Building+Sleek+Glassmorphism+UIs" alt="Typing SVG" />
   </a>
 </div>
 
-## 🌌 About Me
+<div align="center">
+  <a href="https://linkedin.com/in/gowreeshmg"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/gowreeshmg"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya Academy of Science and Technology. I specialize in building at the intersection of deep learning and modern web architecture. My work focuses on integrating robust computer vision models with highly responsive, Apple-inspired glassmorphism interfaces. I actively leverage AI-driven developer tools like Google Antigravity and Claude to accelerate complex workflows and maintain agile development cycles.
+<br/>
 
-- 🚀 **Currently building:** **RetinaScan** (AI medical detection) & **CrashVision AI** (Traffic risk analytics)
-- 🧠 **Exploring:** Advanced Computer Vision (YOLOv8, OpenCV), adversarial AI prompting, and Next.js optimizations
-- 📍 **Location:** Thrissur, Kerala, India
-- 📫 **Reach me at:** gowreeshgowri50@gmail.com
+## 🧠 About Me
+
+👋 Hi, I'm **Gowreesh M G** — an AI & ML engineering student at **Vidya Academy of Science & Technology, Thrissur, Kerala**.
+
+I build at the intersection of deep learning and modern web architecture. My work focuses on integrating robust computer vision models with highly responsive, Apple-inspired glassmorphism interfaces. I actively leverage AI-driven developer tools like Google Antigravity and Claude to accelerate complex workflows and maintain agile development cycles.
+
+* 🎓 B.Tech in Artificial Intelligence & Machine Learning — VAST, Thrissur
+* ⚡ Primary stack: **Next.js · React · Python · PyTorch · YOLOv8**
+* 📍 Based in Kerala, India 🇮🇳
+* 📫 Reach me at: gowreeshgowri50@gmail.com
 
 <br/>
 
@@ -39,6 +56,11 @@ I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Dynamic GitHub Stats Card with a dark, high-contrast theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Gowreesh's GitHub Stats" />
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
