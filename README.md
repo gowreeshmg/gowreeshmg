@@ -20,19 +20,14 @@
 
 ## 🚀 About Me
 
-> **Welcome! I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya Academy of Science and Technology.**
-> <br/>
-> **I specialize in bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. My development philosophy focuses on integrating robust computer vision pipelines into highly responsive, Apple-inspired glassmorphism interfaces.**
-> <br/>
-> **To accelerate complex workflows and maintain agile development cycles, I highlight my experience with AI tools such as Google Antigravity and Claude.**
+> ### 👋 Welcome! I am pursuing a B.Tech in Artificial Intelligence and Machine Learning at Vidya Academy of Science and Technology.
+> 
+> ### 💡 I specialize in bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. My development philosophy focuses on integrating robust computer vision pipelines into highly responsive, Apple-inspired glassmorphism interfaces.
+> 
+> ### ⚡ To accelerate complex workflows and maintain agile development cycles, I highlight my experience with AI tools such as Google Antigravity and Claude.
 
 * 💻 **Web Architecture:** Building full-stack platforms primarily using **Next.js, React, Tailwind CSS**, and **Python Flask**, with infrastructure powered by **Vercel** and **Upstash Redis**.
 * 🧠 **AI Integration:** Experienced in deploying deep learning frameworks and computer vision models, including **PyTorch, TensorFlow, YOLOv8**, and **OpenCV**.
-* 🛠️ **Notable Engineering:**
-  * **IRDOS:** A decision-support web platform for Kochi Metro trainset scheduling and maintenance optimization.
-  * **RetinaScan:** A medical AI diagnostic application classifying diabetic retinopathy severity.
-  * **CrashVision AI:** An automated traffic accident detection and risk analytics platform.
-  * **OnDotNext:** An interactive student attendance tracking web application leveraging Redis and Next.js.
 
 <br/>
 
