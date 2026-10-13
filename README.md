@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Static Name Banner with Big Font and Colorful Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,3b82f6,8b5cf6&height=200&section=header&text=Gowreesh%20M%20G&fontSize=75&fontAlignY=45&fontColor=ffffff" alt="Gowreesh M G Banner" />
+  <!-- 3D Layered Shadow Header (Completely different from the reference) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=65&pause=1000&color=F8FAFC&center=true&vCenter=true&width=800&height=120&lines=Gowreesh+M+G" style="filter: drop-shadow(4px 4px 0px #4F46E5) drop-shadow(8px 8px 0px #06B6D4);" alt="Gowreesh M G" />
   
   <br/>
 
-  <!-- Dynamic Typing Animation - Larger Font -->
+  <!-- Dynamic Typing Animation in a contrasting color -->
   <a href="https://github.com/gowreeshmg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Web+Coder;Integrating+AI+%26+Machine+Learning;Building+Next.js+%2B+Python+Architectures;Crafting+Glassmorphism+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=60&lines=AI+%26+ML+Architect;Full-Stack+Web+Developer;Building+Next.js+%2B+Python;Designing+Glassmorphism+UIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/gowreeshmg"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/gowreeshmg"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -55,8 +55,12 @@ Welcome! I am an Artificial Intelligence & Machine Learning Engineering undergra
 
 ## 📊 GitHub Analytics
 
+<!-- Centered, vertically stacked cards to fix alignment issues -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&theme=dracula&hide_border=true" alt="Gowreesh's GitHub Stats" />
+  
+  <br/><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   
   <br/><br/>
