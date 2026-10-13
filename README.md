@@ -4,9 +4,9 @@
   
   <br/>
 
-  <!-- Dynamic Typing Animation (Only this moves) -->
+  <!-- Dynamic Typing Animation - Larger Font -->
   <a href="https://github.com/gowreeshmg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+Coder;Integrating+AI+%26+Machine+Learning;Building+Next.js+%2B+Python+Architectures;Crafting+Glassmorphism+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Web+Coder;Integrating+AI+%26+Machine+Learning;Building+Next.js+%2B+Python+Architectures;Crafting+Glassmorphism+UIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,13 +14,12 @@
   <a href="https://linkedin.com/in/gowreeshmg"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/gowreeshmg"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <br/><br/>
-  <!-- Fixed Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=gowreeshmg&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
 
-## 🚀 The TL;DR About Me
+## 🚀 About Me
 
 Welcome! I am an Artificial Intelligence & Machine Learning Engineering undergraduate at Vidya Academy of Science and Technology. I specialize in bridging the gap between heavy-duty backend AI systems and stunning, user-centric frontends. I don't just train models; I deploy them into highly responsive, full-stack environments.
 
@@ -56,17 +55,11 @@ Welcome! I am an Artificial Intelligence & Machine Learning Engineering undergra
 
 ## 📊 GitHub Analytics
 
-<!-- Redesigned Analytics Section: Pie Chart Layout and Neon/Synthwave Theme -->
 <div align="center">
-  <a href="https://github.com/gowreeshmg">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Gowreesh's GitHub Stats" />
-  </a>
-  <a href="https://github.com/gowreeshmg">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=pie&theme=synthwave&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gowreeshmg&show_icons=true&theme=dracula&hide_border=true" alt="Gowreesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowreeshmg&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   
-  <br clear="all" />
-  <br />
+  <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowreeshmg&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
